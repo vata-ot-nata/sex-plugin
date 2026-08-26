@@ -1,0 +1,81 @@
+# Message on /sex or /sex help, /n = enter
+HelpMessage: 'Help: /sex or /sex help/nOffer sex: /sex call <nickname>/nCancel sex request: /sex cancel'
+
+# Message on /sex cancel
+CancelMessage: 'Your request canceled'
+
+# Message on /sex call to sender
+AskMessage: 'You asked {player} to have sex'
+
+# Message on /sex call to receiving
+ReceivingMessage: '{player} wants sex with you'
+
+# Yes
+Yes: '[Yes]'
+
+# No
+No: '[No]'
+
+# Click
+Click: '*Click*'
+
+# Accept message to sender
+AcceptMessage: 'You have accept a request from {player}'
+
+# Accept message to receiving
+AcceptMessageReceiving: '{player} accepted your request'
+
+# Reject message to sender
+RejectMessage: 'You have reject a request from {player}'
+
+# Reject message to receiving
+RejectMessageReceiving: '{player} reject your request'
+
+
+# Error messages
+# Offline player
+ErrorOffline: 'Player offline'
+
+# Yourself request
+SelfRequest: 'You cannot send a request to yourself'
+
+# Too far
+ErrorFar: 'Player too far'
+
+# Not send or late
+ErrorLate: 'The player did not send you a request or you were late'
+
+# Cooldown
+Cooldown: 'Please wait before using this command again'
+
+# Messages on sex
+# Messages during the process
+ProcMessages:
+  - 'Oh!'
+  - 'Ah!'
+  - 'Mmm...'
+  - 'Yes!'
+  - 'Deeper! Deeper!'
+  - 'Ooh!'
+  - 'Ooh yes!'
+
+# Additions to process messages
+AdditionalMessages:
+  - 'Dear'
+  - 'Sweet'
+  - 'Darling'
+  - 'Lovely'
+  - 'Honey'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+
+# Messages at cum
+CumMessages:
+  - '{player1} cum on {player2} back'
+  - '{player1} cum inside {player2}'
+  - '{player1} cum in {player2} mouth'
+  - '{player1} cum past {player2}'
+  - '{player2} swallowed {player1} cum'

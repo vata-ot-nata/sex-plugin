@@ -1,0 +1,16 @@
+name: Uff
+version: '${project.version}'
+main: vanya.uff.Uff
+api-version: 1.18
+authors: [ vata_ot_nata ]
+description: 18+ plugin
+
+commands:
+  sex:
+    description: erotic
+    usage: /sex help
+    permission: sex
+
+permissions:
+  sex:
+    default: true
